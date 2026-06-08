@@ -52,4 +52,3 @@ Hybrid cryptographic systems
 Secure key management concepts
 Browser-based cryptography
 Web application security fundamentals
-Disclaimer
